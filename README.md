@@ -14,7 +14,7 @@ This project is based on the [madtrees](https://github.com/madtrees/madtrees) te
 
 ### View Online
 
-Visit the live map: `https://YOUR_USERNAME.github.io/barcelonatrees/`
+Visit the live map: `https://barcelonatrees.github.io/barcelonatrees/`
 
 ### Run Locally
 

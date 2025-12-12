@@ -14,7 +14,7 @@ Este proyecto está basado en la plantilla [madtrees](https://github.com/madtree
 
 ### Ver en Línea
 
-Visita el mapa en vivo: `https://TU_USUARIO.github.io/barcelonatrees/`
+Visita el mapa en vivo: `https://barcelonatrees.github.io/barcelonatrees/`
 
 ### Ejecutar Localmente
 

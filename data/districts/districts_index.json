@@ -1,0 +1,83 @@
+{
+  "total_trees": 178388,
+  "total_districts": 10,
+  "districts": [
+    {
+      "code": "01",
+      "name": "CIUTAT VELLA",
+      "filename": "district_01_CIUTAT_VELLA.geojson",
+      "tree_count": 8267,
+      "size_mb": 1.954758644104004
+    },
+    {
+      "code": "02",
+      "name": "EIXAMPLE",
+      "filename": "district_02_EIXAMPLE.geojson",
+      "tree_count": 22375,
+      "size_mb": 5.019219398498535
+    },
+    {
+      "code": "03",
+      "name": "GRÀCIA",
+      "filename": "district_03_GRÀCIA.geojson",
+      "tree_count": 10178,
+      "size_mb": 2.277096748352051
+    },
+    {
+      "code": "04",
+      "name": "HORTA - GUINARDÓ",
+      "filename": "district_04_HORTA_-_GUINARDÓ.geojson",
+      "tree_count": 15840,
+      "size_mb": 3.5961532592773438
+    },
+    {
+      "code": "05",
+      "name": "LES CORTS",
+      "filename": "district_05_LES_CORTS.geojson",
+      "tree_count": 13614,
+      "size_mb": 3.001504898071289
+    },
+    {
+      "code": "06",
+      "name": "NOU BARRIS",
+      "filename": "district_06_NOU_BARRIS.geojson",
+      "tree_count": 17654,
+      "size_mb": 3.941258430480957
+    },
+    {
+      "code": "07",
+      "name": "SANT ANDREU",
+      "filename": "district_07_SANT_ANDREU.geojson",
+      "tree_count": 16397,
+      "size_mb": 3.6454830169677734
+    },
+    {
+      "code": "08",
+      "name": "SANT MARTÍ",
+      "filename": "district_08_SANT_MARTÍ.geojson",
+      "tree_count": 35120,
+      "size_mb": 8.175260543823242
+    },
+    {
+      "code": "09",
+      "name": "SANTS - MONTJUÏC",
+      "filename": "district_09_SANTS_-_MONTJUÏC.geojson",
+      "tree_count": 21979,
+      "size_mb": 5.087684631347656
+    },
+    {
+      "code": "10",
+      "name": "SARRIÀ - SANT GERVASI",
+      "filename": "district_10_SARRIÀ_-_SANT_GERVASI.geojson",
+      "tree_count": 16961,
+      "size_mb": 4.090034484863281
+    },
+    {
+      "code": "00",
+      "name": "Sin distrito",
+      "filename": "district_00_sin_distrito.geojson",
+      "tree_count": 3,
+      "size_mb": 0.0007638931274414062
+    }
+  ]
+}
